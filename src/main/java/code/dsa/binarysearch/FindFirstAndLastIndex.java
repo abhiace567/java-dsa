@@ -1,4 +1,4 @@
-package com.youtube.binarysearch;
+package code.dsa.binarysearch;
 
 import java.util.Arrays;
 

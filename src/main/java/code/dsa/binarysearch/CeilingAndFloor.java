@@ -1,4 +1,4 @@
-package com.youtube.binarysearch;
+package code.dsa.binarysearch;
 
 public class CeilingAndFloor {
     public static void main(String[] args) {

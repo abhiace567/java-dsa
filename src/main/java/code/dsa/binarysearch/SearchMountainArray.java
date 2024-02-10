@@ -1,4 +1,4 @@
-package com.youtube.binarysearch;
+package code.dsa.binarysearch;
 
 interface MountainArray {
     int get(int index);

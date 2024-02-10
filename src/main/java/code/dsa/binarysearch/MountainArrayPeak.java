@@ -1,4 +1,4 @@
-package com.youtube.binarysearch;
+package code.dsa.binarysearch;
 
 public class MountainArrayPeak {
     // https://leetcode.com/problems/peak-index-in-a-mountain-array/

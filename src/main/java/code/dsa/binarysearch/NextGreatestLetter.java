@@ -1,4 +1,4 @@
-package com.youtube.binarysearch;
+package code.dsa.binarysearch;
 
 public class NextGreatestLetter {
     // https://leetcode.com/problems/find-smallest-letter-greater-than-target/

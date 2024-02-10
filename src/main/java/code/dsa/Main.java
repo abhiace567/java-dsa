@@ -1,6 +1,6 @@
-package com.youtube;
+package code.dsa;
 
-import com.youtube.sorting.BubbleSort;
+import code.dsa.sorting.BubbleSort;
 
 public class Main extends BubbleSort {
     public static void main(String[] args) {

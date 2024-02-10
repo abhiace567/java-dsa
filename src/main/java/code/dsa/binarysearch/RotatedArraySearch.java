@@ -1,4 +1,4 @@
-package com.youtube.binarysearch;
+package code.dsa.binarysearch;
 
 public class RotatedArraySearch {
     // https://leetcode.com/problems/search-in-rotated-sorted-array/

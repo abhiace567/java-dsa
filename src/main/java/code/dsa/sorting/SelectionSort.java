@@ -1,4 +1,4 @@
-package com.youtube.sorting;
+package code.dsa.sorting;
 
 import java.util.Arrays;
 
